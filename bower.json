@@ -1,0 +1,21 @@
+{
+  "name": "turnjs-4th",
+  "homepage": "https://github.com/huangnan1/turnjs-4th",
+  "authors": [
+    "blasten"
+  ],
+  "description": "turn",
+  "main": "lib/turn.js",
+  "moduleType": [],
+  "license": "MIT",
+  "version": "4.0",
+  "keywords": [
+    "turn"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./node_modules/bower_components"
+  ]
+}
