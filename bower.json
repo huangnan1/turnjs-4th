@@ -5,7 +5,7 @@
     "blasten"
   ],
   "description": "turn",
-  "main": "lib/turn.js",
+  "main": ["lib/turn.js", "extras/jquery-ui-1.8.20.custom.min.js"],
   "moduleType": [],
   "license": "MIT",
   "version": "4.0",
